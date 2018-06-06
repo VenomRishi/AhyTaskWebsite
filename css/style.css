@@ -1,0 +1,11 @@
+.btn{
+	background-color: transparent;
+	border: solid;
+	border-color: black;
+	color: black;
+	font-style: bold;
+}
+.img{
+	height: 20px;
+	width: 40px;
+}
